@@ -1,0 +1,2 @@
+# NMRError
+error manager
